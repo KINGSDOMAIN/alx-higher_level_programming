@@ -9,5 +9,5 @@ if number > 5:
     print(f"{string_holder} and is greater than 5")
 elif number == 0:
     print(f"{string_holder} and is 0")
-elif nnumber < 6
+elif nnumber < 6:
     print(f"{string_holder}and is less than 6 and not 0\n')
